@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "osm-ro-2026-07-22-v50036",
+  "version": "osm-ro-2026-07-22-v50597",
   "attribution": "© OpenStreetMap contributors",
   "source": {
     "url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf",
@@ -17,8 +17,8 @@
   },
   "access_points": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/bucharest_access_points.json",
-    "sha256": "6c6aa6288cef0f76ea83fa578ac571826aeade31d2b60f6288f5489b6790b843",
-    "bytes": 91970,
+    "sha256": "e7d806a5f9c239519c58582b5bebc0cc7dbeb7c9c62ee980694b0d8a631bc4fa",
+    "bytes": 125509,
     "format": 2
   },
   "rail_graph": {

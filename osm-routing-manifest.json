@@ -1,30 +1,30 @@
 {
   "schema": 1,
-  "version": "osm-ro-2026-07-27-v37443",
+  "version": "osm-ro-2026-07-27-v41014",
   "attribution": "© OpenStreetMap contributors",
   "source": {
     "url": "https://download.geofabrik.de/europe/romania-260726.osm.pbf",
-    "date": "2026-07-26T20:21:05Z",
-    "replication_url": "https://download.geofabrik.de/europe/romania-updates",
-    "replication_sequence": 4858,
+    "date": "2026-07-27T11:11:33Z",
+    "replication_url": "https://planet.openstreetmap.org/replication/minute/",
+    "replication_sequence": 7217095,
     "license": "ODbL-1.0"
   },
   "graph": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/bucharest_walk.crpg",
-    "sha256": "7ba572760f93dec79e76b2e30d19ff7e1f1ec40e16a23e45395122dc0e332c29",
-    "bytes": 13942666,
+    "sha256": "aa759e0e84b1526d8c1d950b3ece872a3a84edd79835005a470607030113205a",
+    "bytes": 13943023,
     "format": 3
   },
   "access_points": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/bucharest_access_points.json",
-    "sha256": "c1b75b39ec0eceb09c086e5cdde03ba2d5186a13d549ca6462baff14118ba141",
-    "bytes": 568879,
+    "sha256": "3117aa5f9ea1d06faec426c3405759cab325216ff4117412c8c5a843122cb9b6",
+    "bytes": 570011,
     "format": 2
   },
   "rail_graph": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/bucharest_rail.crrg",
-    "sha256": "cb7753ad39387339f3e6dcee48daa434cdc0c6f603025c8b3b9b1e20360c8b40",
-    "bytes": 7152734,
+    "sha256": "74650780ca9b9f060e208cf1f23b9e5c166fcb5851a42163cf8683c5264387a4",
+    "bytes": 7153298,
     "format": 1
   }
 }

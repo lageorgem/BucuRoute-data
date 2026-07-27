@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "osm-ro-2026-07-27-v36736",
+  "version": "osm-ro-2026-07-27-v37443",
   "attribution": "© OpenStreetMap contributors",
   "source": {
     "url": "https://download.geofabrik.de/europe/romania-260726.osm.pbf",
@@ -11,8 +11,8 @@
   },
   "graph": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/bucharest_walk.crpg",
-    "sha256": "fbcc765b4ea128d9f230a079f075f5d2f74030c30796f7b99630da19b81eeca1",
-    "bytes": 13942586,
+    "sha256": "7ba572760f93dec79e76b2e30d19ff7e1f1ec40e16a23e45395122dc0e332c29",
+    "bytes": 13942666,
     "format": 3
   },
   "access_points": {

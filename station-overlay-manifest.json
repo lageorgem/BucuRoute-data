@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "version": "station-overlay-2026-07-31-v1",
+  "generated_at": "2026-07-31T10:39:56.528Z",
+  "attribution": "Station survey data © BucuRoute contributors · base feed © TPBI",
+  "overlay_schema": "cityroute.gtfs-overlay/v1",
+  "geometry_schema": "cityroute.station-geometry/v1",
+  "source": {
+    "name": "BUCHAREST-REGION.zip",
+    "url": "https://gtfs.tpbi.ro/regional/BUCHAREST-REGION.zip",
+    "sha256": "f895ff61c77314b0dace433706a22448f0ef7640b01e5ad27d2dde45a4961f46",
+    "feed_version": "6.38",
+    "loaded_at": "2026-07-31T10:38:50.689Z"
+  },
+  "merge_semantics": {
+    "strategy": "sparse full-row upsert onto the TPBI base feed",
+    "omitted_source_rows": "unchanged",
+    "deletions": "not supported by v1"
+  },
+  "archive": {
+    "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/station-overlay.zip",
+    "sha256": "d0de7e3b4cec485e00cb5eaa2a4d97569ed5ad7366dafb17e8be1848a897d77d",
+    "bytes": 15943,
+    "format": 1
+  },
+  "tables": {
+    "stops.txt": 188,
+    "levels.txt": 4,
+    "pathways.txt": 214,
+    "translations.txt": 21
+  },
+  "geometry": {
+    "file": "station_geometry.geojson",
+    "feature_count": 21
+  },
+  "stations": [
+    "14697",
+    "14698",
+    "14713",
+    "15100",
+    "15101"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "station-overlay-2026-08-01-v2",
-  "generated_at": "2026-08-01T08:31:25.511Z",
+  "version": "station-overlay-2026-08-01-v3",
+  "generated_at": "2026-08-01T08:50:53.513Z",
   "attribution": "Station survey data © BucuRoute contributors · base feed © TPBI",
   "overlay_schema": "cityroute.gtfs-overlay/v1",
   "geometry_schema": "cityroute.station-geometry/v1",
@@ -19,8 +19,8 @@
   },
   "archive": {
     "url": "https://raw.githubusercontent.com/lageorgem/BucuRoute-data/main/station-overlay.zip",
-    "sha256": "f34bc723d0886cf9d6e07789c12abcb01c5659e7da458dd335d668601e02c536",
-    "bytes": 21206,
+    "sha256": "d7fa95eb1ae426aa8c78820e97cccd18da9c0f546a6097e9094e0368d1f41746",
+    "bytes": 21202,
     "format": 1
   },
   "tables": {

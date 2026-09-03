@@ -1,7 +1,9 @@
-# BucuRoute public OSM routing snapshots
+# CityRoute public transit and routing data
 
-Daily generated routing artifacts consumed by the private BucuRoute Android application.
+Daily generated data consumed by the private CityRoute Android app. `osm-routing-manifest.json` is the authority for each routing artifact's source timestamp, SHA-256 checksum, byte size, and download URL.
 
-This repository intentionally contains no application source code. `osm-routing-manifest.json` records the exact source timestamp, checksums, sizes, and download URLs for each published snapshot.
+Shared walking routing for all CityCatalog cities is published as `all_city_walk.crpg` with its access index `all_city_access_points.json`; `bucharest_rail.crrg` contains Bucharest rail routing.
 
-Map data © OpenStreetMap contributors, available under the [Open Database License](https://www.openstreetmap.org/copyright).
+Transit feeds are `gtfs/brasov.zip` and `gtfs/satumare.zip`, with weekday-specific snapshots in `gtfs/brasov-days/` and `gtfs/satumare-days/` (`monday.zip` through `sunday.zip`).
+
+Map data © OpenStreetMap contributors, available under the [Open Database License](https://www.openstreetmap.org/copyright). GTFS data is sourced from public transport operators; no license is asserted here.
